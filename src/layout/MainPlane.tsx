@@ -13,7 +13,7 @@ const MainPlane: React.FC = function () {
         <div className={`${styles.blob} ${styles.color5}`} />
       </div>
       <Calculator />
-      <h6 className={styles.signiture}>A. Ganchev</h6>
+      <h6 className={styles.signature}>A. Ganchev</h6>
     </main>
   );
 };
