@@ -1,0 +1,12 @@
+.keypad {
+  height: 76%;
+  width: 100%;
+  background-color: var(--secondary-light-green);
+  border-radius: 25px 25px 12px 12px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(5, 1fr);
+  padding: 1.2em;
+  padding-top: 5em;
+  z-index: 1;
+}
